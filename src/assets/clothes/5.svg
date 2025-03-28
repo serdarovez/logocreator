@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1.70666in" height="1.70666in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1707 1707"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:black}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M707 1606l133 -894c1,-6 7,-11 13,-11 7,0 12,5 13,11l134 894 290 0 -42 -974 -7 -2c-88,-35 -149,-122 -149,-217 0,-66 28,-128 77,-172l21 -18 -298 0 74 95c4,6 3,14 -3,19 -2,2 -5,3 -8,3 -4,0 -8,-2 -11,-6l-85 -111 -11 0 -86 111c-2,4 -6,6 -10,6 -3,0 -6,-1 -8,-3 -6,-5 -7,-13 -3,-19l73 -95 -297 0 20 18c49,44 77,106 77,172 0,95 -60,182 -149,217l-6 2 -42 974 290 0z"/>
+  <polygon class="fil0" points="1291,1632 1004,1632 1015,1707 1294,1707 "/>
+  <polygon class="fil0" points="692,1707 703,1632 416,1632 413,1707 "/>
+  <path class="fil0" d="M476 596c68,-35 112,-106 112,-183 0,-71 -36,-136 -96,-173l-16 -10 -16 374 16 -8z"/>
+  <path class="fil0" d="M477 196l362 0 -52 -68 -9 9c-11,12 -26,19 -42,19 -25,0 -47,-15 -55,-38l-3 -7 -201 0 0 85z"/>
+  <path class="fil0" d="M477 85l201 0 3 -7c8,-23 30,-38 55,-38 29,0 53,22 57,51l1 2 59 79 60 -79 1 -2c3,-29 28,-51 57,-51 25,0 46,15 55,38l2 7 201 0 0 -85 -752 0 0 85z"/>
+  <path class="fil0" d="M704 98c0,17 14,32 32,32 17,0 31,-15 31,-32 0,-17 -14,-32 -31,-32 -18,0 -32,15 -32,32z"/>
+  <path class="fil0" d="M940 98c0,17 14,32 31,32 18,0 32,-15 32,-32 0,-17 -14,-32 -32,-32 -17,0 -31,15 -31,32z"/>
+  <path class="fil0" d="M1026 118c-9,23 -30,38 -55,38 -16,0 -32,-7 -43,-19l-8 -9 -52 68 361 0 0 -85 -201 0 -2 7z"/>
+  <path class="fil0" d="M1215 240c-60,37 -96,102 -96,173 0,77 44,148 111,183l16 8 -16 -374 -15 10z"/>
+ </g>
+</svg>
