@@ -41,8 +41,8 @@ export default function LogoGenerator() {
       ctx.fillRect(0, 0, canvas.width, canvas.height);
       ctx.drawImage(img, 0, 0, 300, 300);
 
-      // Add text
-      ctx.font = `24px ${options.font}`;
+      // Add text with font family
+      ctx.font = `24px ${options.font}, sans-serif`;
       ctx.fillStyle = options.textColor;
       ctx.textAlign = "center";
       ctx.fillText(options.name, canvas.width / 2, canvas.height - 30);
@@ -184,7 +184,7 @@ export default function LogoGenerator() {
                   <p
                     className="mt-4"
                     style={{
-                      fontFamily: options.font,
+                      fontFamily: `${options.font}, sans-serif`,
                       color: options.textColor,
                     }}
                   >
