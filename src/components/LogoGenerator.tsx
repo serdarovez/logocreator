@@ -187,6 +187,7 @@ export default function LogoGenerator() {
                       fontFamily: `${options.font}, sans-serif`,
                       color: options.textColor,
                     }}
+
                   >
                     {options.name}
                   </p>
